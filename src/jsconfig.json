@@ -1,0 +1,8 @@
+{/*digunakan untuk konfigurasi mencari file di dalam folder manapun*/}
+
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src/**/*"]
+}
